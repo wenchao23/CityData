@@ -4,5 +4,5 @@ The function is to generate the cloud data of buildings in Melbourne city for th
 
 # Demo
 
-The figure shows the buildings in CBD which heights are larger than 30m.
+The figure shows buildings,  which heights are larger than 30m, in the CBD
 ![](/Figure/demo.png)
